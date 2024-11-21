@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab6811b5-3c43-4342-ab6c-913a8f1b9bec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/silstechnologie/GestionEtudiant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/silstechnologie/GestionEtudiant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/silstechnologie/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/silstechnologie/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732206174476</updated>
-      <workItem from="1732206175308" duration="3844000" />
+      <workItem from="1732206175308" duration="3955000" />
     </task>
     <servers />
   </component>
